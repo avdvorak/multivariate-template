@@ -129,9 +129,9 @@ do
   cp ${inputPath}/${subject}/mcDESPOT/${subject}_IRSPGR_WarpedMasked.nii.gz ${templatePath}/${subject}_IRSPGR.nii.gz
 done
 
-###############  MAKE TEMPLATE: With 3DT1 (brain extracted)
-#                                and GRASE T1 replica (brain extracted)
-#                                and with IRSPGR N4 corrected (brain extracted)
+###############  MAKE TEMPLATE: With mFFE (masked to cord)
+#                                and GRASE Echo 1 (aligned w mFFE, masked to cord w sharper mFFE cord segmentation)
+#                                and with IRSPGR (aligned w mFFE, masked to cord w sharper mFFE cord segmentation)
 
 # Print date and time that template creation begins
 printf " \n \n \n \n BEGINNING TEMPLATE CREATION \n \n \n \n "
