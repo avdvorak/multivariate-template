@@ -1,6 +1,6 @@
 # Multivariate Template
 Example code for template creation process used in *Myelin imaging in the central nervous system: Comparison of multi-echo T2 relaxation and steady-state approaches*. 
-
+DOI from Zenodo: [![DOI](https://zenodo.org/badge/308442173.svg)](https://zenodo.org/badge/latestdoi/308442173)
 
 ## ANTs Installation
 The pipeline used the Advanced Normalization Tools software (https://github.com/ANTsX/ANTs). Instructions for compiling and setting up ANTs can be found here:
