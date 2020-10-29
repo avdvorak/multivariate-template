@@ -1,6 +1,15 @@
 # Multivariate Template
 Example code for template creation process used in *Myelin imaging in the central nervous system: Comparison of multi-echo T2 relaxation and steady-state approaches*. 
-DOI from Zenodo: [![DOI](https://zenodo.org/badge/308442173.svg)](https://zenodo.org/badge/latestdoi/308442173)
+
+DOI for this example code:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4157687.svg)](https://doi.org/10.5281/zenodo.4157687)
+
+
+
+The multivariate structural MRI templates, quantitative atlases, and regions of interest generated and analyzed for this project are available here:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4157768.svg)](https://doi.org/10.5281/zenodo.4157768)
 
 ## ANTs Installation
 The pipeline used the Advanced Normalization Tools software (https://github.com/ANTsX/ANTs). Instructions for compiling and setting up ANTs can be found here:
